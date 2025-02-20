@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Script User</name>
+   <tag></tag>
+   <elementGuidId>9c875178-1abe-42ac-94d1-9250a84d2a53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav']/span/div[6]/ul/li/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.user > label.LBLmenustd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Script User&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1b6d3437-2ffc-4d72-807d-06299efa71f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LBLmenustd</value>
+      <webElementGuid>594120e0-6958-45f0-b834-6b95afa2f3d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Script User</value>
+      <webElementGuid>e6ddf074-f3e7-445e-acb7-f9fe6792b4db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav&quot;)/span[1]/div[@class=&quot;inD&quot;]/ul[1]/li[@class=&quot;user&quot;]/label[@class=&quot;LBLmenustd&quot;]</value>
+      <webElementGuid>d6b40113-9e80-4484-8da8-fead9ba2a790</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav']/span/div[6]/ul/li/label</value>
+      <webElementGuid>dc87cf91-3d4e-42cd-a11b-b50f5d23c177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Window'])[1]/following::label[1]</value>
+      <webElementGuid>7c8623e8-5d05-49d2-9e8e-1e18a36454a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Europe/London'])[1]/following::label[2]</value>
+      <webElementGuid>1b06f774-b1dc-49ce-b8e6-edcf137bc690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Hotkey'])[1]/preceding::label[1]</value>
+      <webElementGuid>240c6b2d-28ce-44a6-bfc8-70f24e6eab29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Settings'])[1]/preceding::label[1]</value>
+      <webElementGuid>fc9c02cc-599c-41e9-8338-ff285448d0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Script User']/parent::*</value>
+      <webElementGuid>b3216fd4-0b1a-4fc2-a7b1-918ba61738ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/ul/li/label</value>
+      <webElementGuid>19d989a9-a190-4267-9b6e-3b35115dbd41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Script User' or . = 'Script User')]</value>
+      <webElementGuid>a7785cbf-c6b5-4621-8cf3-ef6474f23236</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
